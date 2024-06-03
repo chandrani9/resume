@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Chandrani Chakraborty (Sanyal)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info, .personal-info {
+            display: flex;
+            justify-content: space-between;
+        }
+        .contact-info div, .personal-info div {
+            flex: 1;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>CHANDRANI CHAKRABORTY (SANYAL)</h1>
+    
+    <div class="section contact-info">
+        <div>
+            <p>Address: 29/2, Banku Behari Ghosh Lane, Belur, Howrah, West Bengal, Pin-711202</p>
+            <p>Email: chandrani2007@gmail.com, chandrani_sanyal@yahoo.co.in</p>
+        </div>
+        <div>
+            <p>Contact No.: 9830913023</p>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Objective</h2>
+        <p>Intend to work with a leading organization where I can fully utilize as well as improve my technical and human skills.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Academic Qualifications</h2>
+        <table>
+            <tr>
+                <th>Degree & Diploma</th>
+                <th>Board / University</th>
+                <th>Institute</th>
+                <th>Year of Passing</th>
+                <th>Percentage of Marks</th>
+            </tr>
+            <tr>
+                <td>M.C.A.</td>
+                <td>West Bengal University of Technology</td>
+                <td>RCC Institute of Information Technology</td>
+                <td>2008</td>
+                <td>DGPA: 8.14 (81.4%)</td>
+            </tr>
+            <tr>
+                <td>Diploma in Software Engineering</td>
+                <td>NIIT</td>
+                <td>NIIT</td>
+                <td>2005</td>
+                <td>72%</td>
+            </tr>
+            <tr>
+                <td>B.Sc (Physics)</td>
+                <td>University of Calcutta</td>
+                <td>Bangabasi College</td>
+                <td>2004</td>
+                <td>Total: 55%, Hons: 51%</td>
+            </tr>
+            <tr>
+                <td>Higher Secondary</td>
+                <td>W.B. Council of Higher Secondary Education</td>
+                <td>Rathtala Rajlakshmi Balika Vidyamandir</td>
+                <td>2000</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td>Madhyamik</td>
+                <td>W.B. Board Of Secondary Education</td>
+                <td>Rathtala Rajlakshmi Balika Vidyamandir</td>
+                <td>1998</td>
+                <td>85%</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="section">
+        <h2>Skill Synopsis</h2>
+        <ul>
+            <li>PHP, C, C++, Java, JSP</li>
+            <li>RDBMS (Oracle), MySQL</li>
+            <li>Javascript, Ajax, Jquery</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <h2>Working Experience</h2>
+        <table>
+            <tr>
+                <th>Name of the Company</th>
+                <th>Position</th>
+                <th>Area</th>
+                <th>Framework</th>
+                <th>Duration</th>
+            </tr>
+            <tr>
+                <td>Infosolz Consultancy Services Pvt. Ltd</td>
+                <td>Web Developer</td>
+                <td>PHP, MySQL</td>
+                <td>Codeigniter</td>
+                <td>March 2022 to till date</td>
+            </tr>
+            <tr>
+                <td>Infoware Solutions</td>
+                <td>Web Developer</td>
+                <td>PHP, MySQL</td>
+                <td>Codeigniter</td>
+                <td>September 2012 to December 2015</td>
+            </tr>
+            <tr>
+                <td>Circar Consulting</td>
+                <td>Web Developer</td>
+                <td>PHP, MySQL</td>
+                <td>Codeigniter</td>
+                <td>July 2010 to March 2012</td>
+            </tr>
+            <tr>
+                <td>SSCS World</td>
+                <td>Web Developer</td>
+                <td>PHP, MySQL</td>
+                <td>Codeigniter</td>
+                <td>April 2010 to June 2010</td>
+            </tr>
+            <tr>
+                <td>AM-Soft</td>
+                <td>Web Developer</td>
+                <td>PHP, MySQL</td>
+                <td>Codeigniter</td>
+                <td>May 2008 to April 2010</td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="section">
+        <h2>Key Responsibility</h2>
+        <p>Working as Senior developer. Designing database and flow of software.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Project Details</h2>
+        <ul>
+            <li>Developing websites for university, colleges and schools for making marksheets, fees collection (online and offline), library, reports and others.</li>
+            <li>Shopping cart-based websites.</li>
+            <li>Loyalty Card website with API implement.</li>
+            <li>Job search website.</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <h2>Tools used</h2>
+        <ul>
+            <li>VS code</li>
+            <li>Filezilla</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <h2>Personal Details</h2>
+        <div class="personal-info">
+            <div>
+                <p>Date of Birth: 5th March, 1982</p>
+                <p>Nationality: Indian</p>
+            </div>
+            <div>
+                <p>Marital Status: Married</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Languages Known</h2>
+        <ul>
+            <li>English</li>
+            <li>Hindi</li>
+            <li>Bengali</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <h2>Other Interests</h2>
+        <ul>
+            <li>Music: Completed 2nd year in Vocal Classical and Tagore Songs.</li>
+            <li>Reading.</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <p>I hereby declare that the above written particulars are to the best of my knowledge and belief.</p>
+        <p>CHANDRANI CHAKRABORTY (SANYAL)</p>
+    </div>
+
+</body>
+</html>
